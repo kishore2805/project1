@@ -1,3 +1,2 @@
-Hi
-
-This is the test file
+#!/usr/bin/python
+print ("hello world")
